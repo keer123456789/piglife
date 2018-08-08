@@ -3922,6 +3922,13 @@ body.modal-open {
   letter-spacing: -10px;
   margin-bottom: 0px;
 }
+.logo-name1 {
+  color: #179b55;
+  font-size: 80px;
+  font-weight: 800;
+  letter-spacing: -10px;
+  margin-bottom: 0px;
+}
 .middle-box h1 {
   font-size: 170px;
 }
